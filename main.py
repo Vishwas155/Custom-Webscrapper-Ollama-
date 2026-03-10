@@ -7,7 +7,7 @@ from scrape import(
 )
 from parse import parse_with_ollama
 
-
+# HI THERE
 st.title("This is an AI Web Scrapper!")
 url = st.text_input("Enter the URL to scrape:")
 
